@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/00.DI/00.DI.iml" filepath="$PROJECT_DIR$/00.DI/00.DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/01.SingletonPattern/01.SingletonPattern.iml" filepath="$PROJECT_DIR$/01.SingletonPattern/01.SingletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/02.FlyweightPattern/02.FlyweightPattern.iml" filepath="$PROJECT_DIR$/02.FlyweightPattern/02.FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.BuilderPattern/03.BuilderPattern.iml" filepath="$PROJECT_DIR$/03.BuilderPattern/03.BuilderPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-pattern.iml" filepath="$PROJECT_DIR$/java-design-pattern.iml" />
     </modules>
   </component>
