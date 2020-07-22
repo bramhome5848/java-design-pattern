@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/02.FlyweightPattern/02.FlyweightPattern.iml" filepath="$PROJECT_DIR$/02.FlyweightPattern/02.FlyweightPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.BuilderPattern/03.BuilderPattern.iml" filepath="$PROJECT_DIR$/03.BuilderPattern/03.BuilderPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/04.ObserverPattern/04.ObserverPattern.iml" filepath="$PROJECT_DIR$/04.ObserverPattern/04.ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.AdapterPattern/05.AdapterPattern.iml" filepath="$PROJECT_DIR$/05.AdapterPattern/05.AdapterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-pattern.iml" filepath="$PROJECT_DIR$/java-design-pattern.iml" />
     </modules>
   </component>
