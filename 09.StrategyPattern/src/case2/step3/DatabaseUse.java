@@ -7,7 +7,7 @@ public class DatabaseUse {
     //접근점
     private Database db;
 
-    // 데이터베이스 교환 가능하게
+    // 데이터베이스 교환 가능하게 -> 약한 결합으르 구현
     public void setDatabase(Database db) {
         this.db = db;
     }

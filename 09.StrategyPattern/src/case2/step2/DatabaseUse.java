@@ -6,7 +6,7 @@ public class DatabaseUse {
 
     private Database db;
 
-    //기능 선택
+    //기능 선택 -> 강한 결합
     public void connect(DBTYPE dbType) {
         switch(dbType) {
             case MySQL:
